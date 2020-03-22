@@ -1,6 +1,6 @@
 # NoSQL Project
 
-Ce projet est une étude des statistiques des personnes actuellement atteintes par le coronavirus.
+Ce projet est une étude des statistiques des provinces atteintes par le coronavirus dans le monde.
 Pour cela nous avons choisi une stream API répertoriant pour chaque province touchées le nombre de cas total dont le nombre de morts et de guérisons.
 
 Vous pouvez consulter cette API via le lien suivant : https://coronavirus-tracker-api.herokuapp.com/v2/locations
