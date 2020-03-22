@@ -11,3 +11,5 @@ Le document '.json' contient toutes les mises à jour de l'API effectuées via l
 
 L'option 1 du programme vous permez de mettre à jour le document '.json' en ajoutant les dernières données au fichier déjà existant tel un historique et de réinitialiser la database avec les dernières données.
 Les autres options vous permettent d'effectuer différentes requêtes en mongodb.
+
+Valentine Biais & Victor Larrezet IF7
