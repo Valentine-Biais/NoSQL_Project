@@ -46,7 +46,7 @@ def main():
 
         elif choice == 3:
             print('Five countries with the most...')
-            print('1. Currently affected people') 
+            print('1. Affected people') 
             print('2. Coronavirus deaths')
             print('3. Recovered people')
 
